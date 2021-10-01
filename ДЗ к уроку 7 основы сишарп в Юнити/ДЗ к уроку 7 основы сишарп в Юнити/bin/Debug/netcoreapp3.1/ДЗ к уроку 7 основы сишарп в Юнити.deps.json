@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ДЗ к уроку 7 основы сишарп в Юнити/1.0.0": {
+        "runtime": {
+          "ДЗ к уроку 7 основы сишарп в Юнити.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ДЗ к уроку 7 основы сишарп в Юнити/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

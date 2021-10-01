@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DQC1bbiQRbAEdcyjeEchkk2MZ2NIv8/gUHKk7zp/wcKYcqxrx5e2TNtxpAquO86TxkRONFK40mCEN66+xw5y0Q==",
+  "success": true,
+  "projectFilePath": "E:\\Project\\ДЗ к уроку 7 основы сишарп в Юнити\\Задание 3\\Задание 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kolyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
